@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# L&M — Generative Engine Optimization Map
+
+> A גיימינג ומשחקי מחשב business.
 
 ---
 
@@ -38,7 +40,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About L&M
+L&M is a business in the גיימינג ומשחקי מחשב industry.
+
+## Target Audience
+גיימרים
+
+## Industry
+גיימינג ומשחקי מחשב
+
 ---
 
 # Additional Resources
