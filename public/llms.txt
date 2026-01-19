@@ -1,57 +1,47 @@
-# L&M — Generative Engine Optimization Map
-
-> A גיימינג ומשחקי מחשב business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://l-m-2d50b934.zappy5.app
+https://example.com
 גלו את חנות הגיימינג המובילה עם מבחר משחקים ומוצרי גיימינג 24/7. L&M - היעד שלכם לכל מה שקשור למשחקי מחשב וציוד גיימינג מתקדם.
 
 ### מוצרים
-https://l-m-2d50b934.zappy5.app/products
+https://example.com/products
 גלו את מגוון מוצרי הגיימינג שלנו - משחקים, ציוד גיימינג, אביזרים ועוד. חנות מוצרי גיימינג עם זמינות 24/7 ומחירים תחרותיים.
 
 ### אודות
-https://l-m-2d50b934.zappy5.app/about
+https://example.com/about
 הכירו את L&M - חנות הגיימינג המובילה בישראל. אנחנו מציעים משחקים וציוד גיימינג איכותי עם שירות מקצועי וזמינות 24/7.
 
 ### צור קשר
-https://l-m-2d50b934.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם L&M - חנות הגיימינג המובילה. נשמח לעזור לכם עם שאלות, הזמנות או ייעוץ מקצועי. זמינים 24/7 לשירותכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://l-m-2d50b934.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://l-m-2d50b934.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://l-m-2d50b934.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About L&M
-L&M is a business in the גיימינג ומשחקי מחשב industry.
-
-## Target Audience
-גיימרים
-
-## Industry
-גיימינג ומשחקי מחשב
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://l-m-2d50b934.zappy5.app/sitemap.xml
-- **Robots.txt**: https://l-m-2d50b934.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
