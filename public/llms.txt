@@ -1,0 +1,57 @@
+# L&M — Generative Engine Optimization Map
+
+> A גיימינג ומשחקי מחשב business.
+
+---
+
+## Pages
+
+### בית
+https://l-m-2d50b934.zappy5.app
+גלו את חנות הגיימינג המובילה עם מבחר משחקים ומוצרי גיימינג 24/7. L&M - היעד שלכם לכל מה שקשור למשחקי מחשב וציוד גיימינג מתקדם.
+
+### מוצרים
+https://l-m-2d50b934.zappy5.app/products
+גלו את מגוון מוצרי הגיימינג שלנו - משחקים, ציוד גיימינג, אביזרים ועוד. חנות מוצרי גיימינג עם זמינות 24/7 ומחירים תחרותיים.
+
+### אודות
+https://l-m-2d50b934.zappy5.app/about
+הכירו את L&M - חנות הגיימינג המובילה בישראל. אנחנו מציעים משחקים וציוד גיימינג איכותי עם שירות מקצועי וזמינות 24/7.
+
+### צור קשר
+https://l-m-2d50b934.zappy5.app/contact
+צרו קשר עם L&M - חנות הגיימינג המובילה. נשמח לעזור לכם עם שאלות, הזמנות או ייעוץ מקצועי. זמינים 24/7 לשירותכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://l-m-2d50b934.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://l-m-2d50b934.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://l-m-2d50b934.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About L&M
+L&M is a business in the גיימינג ומשחקי מחשב industry.
+
+## Target Audience
+גיימרים
+
+## Industry
+גיימינג ומשחקי מחשב
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://l-m-2d50b934.zappy5.app/sitemap.xml
+- **Robots.txt**: https://l-m-2d50b934.zappy5.app/robots.txt
